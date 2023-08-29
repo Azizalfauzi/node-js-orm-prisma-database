@@ -1,6 +1,6 @@
 -- SELECT * FROM sample;
 -- SELECT * FROM customers;
-
+-- 
 -- create table customers
 -- (
 --     id VARCHAR(100) not null,
